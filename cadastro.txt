@@ -1,0 +1,1 @@
+{"aluno": [{"nome": "aaa", "email": "bbb", "curso": "ccc"}, {"nome": "ddd", "email": "eee", "curso": "fff"}, {"nome": "ggg", "email": "hhh", "curso": "iii"}]}
